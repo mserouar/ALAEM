@@ -2,8 +2,7 @@
 
 # ALAEM : Automatic Leaf Azimuth Estimation from Midrib detection
 
-![logo](https://ibb.co/qk9qCjk/fig.png)
-
+![logo](https://i.ibb.co/qk9qCjk/fig-1.png)
 
 ## 📚 Abstract <a name="abs"></a>
 
@@ -17,6 +16,7 @@
 ```
 
 ## 📖 Citing paper <a name="paper"></a>
-If this is useful, please consider citing the given article : Serouart Mario Lopez-Lozano Raul Daubige Gaetan Baumont Maeva Escale Brigitte de Solan Benoit Baret Frédéric . 
+If this is useful, please consider citing the given article : 
 
-Analysing changes in maize leaves orientation due to GxExM using an automatic method from RGB images. Plant Phenomics. 0;DOI:10.34133/plantphenomics.0046
+Serouart Mario Lopez-Lozano Raul Daubige Gaetan Baumont Maeva Escale Brigitte de Solan Benoit Baret Frédéric,
+Analysing changes in maize leaves orientation due to GxExM using an automatic method from RGB images. Plant Phenomics 2023, DOI:10.34133/plantphenomics.0046
