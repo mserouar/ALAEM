@@ -2,7 +2,7 @@
 
 # ALAEM : Automatic Leaf Azimuth Estimation from Midrib detection
 
-![logo](https://i.ibb.co/qk9qCjk/fig-1.png)
+![workflow](https://user-images.githubusercontent.com/57948061/233083113-f29f7ed9-5dd4-4775-8993-8b3f780d29fd.png)
 
 ## 📚 Abstract <a name="abs"></a>
 
